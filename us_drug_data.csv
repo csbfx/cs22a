@@ -1,0 +1,100 @@
+State,Population,Gender,Deaths
+Oklahoma,3959353,Female,186
+Oklahoma,3959353,Male,341
+Nebraska,1961504,Female,29
+Nebraska,1961504,Male,87
+Hawaii,1455271,Female,10
+Hawaii,1455271,Male,101
+South Dakota,886667,Male,11
+Tennessee,6910840,Female,820
+Tennessee,6910840,Male,1695
+Nevada,3104614,Female,191
+Nevada,3104614,Male,442
+New Mexico,2117522,Female,196
+New Mexico,2117522,Male,455
+Iowa,3190369,Female,82
+Iowa,3190369,Male,178
+Kansas,2937880,Female,128
+Kansas,2937880,Male,288
+District of Columbia,689545,Female,69
+District of Columbia,689545,Male,246
+Texas,29145505,Female,955
+Texas,29145505,Male,2178
+Missouri,6154913,Female,424
+Missouri,6154913,Male,991
+Arkansas,3011524,Female,120
+Arkansas,3011524,Male,221
+Michigan,10077331,Female,523
+Michigan,10077331,Male,1110
+New Hampshire,1377529,Female,73
+New Hampshire,1377529,Male,156
+North Carolina,10439388,Female,727
+North Carolina,10439388,Male,1711
+Ohio,11799448,Female,1088
+Ohio,11799448,Male,2480
+South Carolina,5118425,Female,424
+South Carolina,5118425,Male,914
+Wyoming,576851,Male,10
+California,39538223,Female,1619
+California,39538223,Male,5264
+North Dakota,779094,Male,39
+Louisiana,4657757,Female,452
+Louisiana,4657757,Male,1128
+Maryland,6177224,Female,184
+Maryland,6177224,Male,443
+Delaware,989948,Female,98
+Delaware,989948,Male,218
+Pennsylvania,13002700,Female,1045
+Pennsylvania,13002700,Male,2456
+Georgia,10711908,Female,465
+Georgia,10711908,Male,1016
+Oregon,4237256,Female,197
+Oregon,4237256,Male,495
+Minnesota,5706494,Female,240
+Minnesota,5706494,Male,568
+Colorado,5773714,Female,339
+Colorado,5773714,Male,821
+New Jersey,9288994,Female,524
+New Jersey,9288994,Male,1384
+Kentucky,4505836,Female,513
+Kentucky,4505836,Male,1056
+Washington,7705281,Female,425
+Washington,7705281,Male,976
+Maine,1362359,Female,106
+Maine,1362359,Male,256
+Vermont,643077,Female,41
+Vermont,643077,Male,81
+Idaho,1839106,Female,39
+Idaho,1839106,Male,121
+Indiana,6785528,Female,538
+Indiana,6785528,Male,1145
+Montana,1084225,Female,20
+Montana,1084225,Male,63
+New York,20201249,Female,939
+New York,20201249,Male,2539
+Connecticut,3605944,Female,269
+Connecticut,3605944,Male,740
+Florida,21538187,Female,1444
+Florida,21538187,Male,3609
+Virginia,8631393,Female,478
+Virginia,8631393,Male,1162
+Massachusetts,7029917,Female,439
+Massachusetts,7029917,Male,1186
+Illinois,12812508,Female,623
+Illinois,12812508,Male,1714
+Mississippi,2961279,Female,175
+Mississippi,2961279,Male,307
+Arizona,7151502,Female,437
+Arizona,7151502,Male,1320
+Utah,3271616,Female,113
+Utah,3271616,Male,247
+Wisconsin,5893718,Female,301
+Wisconsin,5893718,Male,763
+Alabama,5024279,Female,249
+Alabama,5024279,Male,557
+West Virginia,1793716,Female,296
+West Virginia,1793716,Male,676
+Rhode Island,1097379,Female,69
+Rhode Island,1097379,Male,177
+Alaska,733391,Female,33
+Alaska,733391,Male,88
